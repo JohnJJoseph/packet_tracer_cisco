@@ -54,8 +54,7 @@ The project is divided into the following modules:
 ## 👤 Author
 
 **Jo**  
-*Networking Student, 2025*
-
+*Cybersecurity Student*
 ---
 
 ## 📄 License
