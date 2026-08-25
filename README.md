@@ -1,16 +1,16 @@
-# 🚀 packet_tracer_cisco
+#  packet_tracer_cisco
 
 A hands-on networking project built using **Cisco Packet Tracer** to simulate and explore core networking concepts, including routing, DHCP, FTP, and client-server communication.
 
 ---
 
-## 📘 Overview
+##  Overview
 
 This project demonstrates key networking principles and configurations using Cisco Packet Tracer. It aims to provide a **practical understanding** of network behavior, routing techniques, server setup, and diagnostics in simulated environments.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 The project is divided into the following modules:
 
@@ -54,7 +54,6 @@ The project is divided into the following modules:
 ## 👤 Author
 
 **Jo**  
-*Cybersecurity Student*
 ---
 
 ## 📄 License
