@@ -36,13 +36,13 @@ The project is divided into the following modules:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Cisco Packet Tracer (version X.X)** – for network design, configuration, and simulation.
 
 ---
 
-## 🧪 How to Use
+## How to Use
 
 1. Open **Cisco Packet Tracer**.
 2. Navigate to each module's folder and open the relevant `.pkt` file.
@@ -51,12 +51,12 @@ The project is divided into the following modules:
 
 ---
 
-## 👤 Author
+## Author
 
 **Jo**  
 ---
 
-## 📄 License
+## License
 
 This project is free to use for educational and non-commercial purposes. Attribution is appreciated.
 
